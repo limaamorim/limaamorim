@@ -104,14 +104,6 @@ Tenho 20 anos, sou de Recife-PE e atualmente curso Análise e Desenvolvimento de
 />
 <img 
     align="left" 
-    alt="SAP" 
-    title="SAP"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="VS Code" 
     title="VS Code"
     width="30px" 
