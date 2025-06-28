@@ -1,66 +1,70 @@
-<!-- Banner ou título personalizado -->
-<h1 align="center">Olá! Eu sou o José Fernando 👨‍💻</h1>
-<p align="center">Desenvolvedor Web | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia</p>
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+RAISSA+VITÓRIA;BEM-VINDO+AO+MEU+PERFIL!;:%29)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 Sobre Mim
+Desenvolvedor Front-end apaixonado por criar soluções elegantes e funcionais. Atualmente focado em expandir meus conhecimentos em React e TypeScript.
 
 ---
 
-### 📌 Sobre mim
+## 🔧 Tecnologias & Ferramentas
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento web. Atualmente estou me aprofundando em **Node.js, MongoDB, Express e desenvolvimento front-end com HTML/CSS/JavaScript**. Estou sempre em busca de aprender mais, construir soluções reais e impactar positivamente com a tecnologia.
-
-- 🎓 Estudante de ADS
-- ⚙️ Foco atual: Projetos fullstack e integração com IA
-- 🚀 Desenvolvendo um sistema para **laudos periciais odontológicos** com IA
-- 🤝 Buscando oportunidades para colaborar em projetos e aprender mais com a comunidade
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
+<div align="center" style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+</div>
 
 ---
 
-### 📂 Projetos em Destaque
+## 📊 Estatísticas GitHub
 
-🔬 **Sistema OdontoForense**  
-Sistema web para gerenciamento de casos periciais odontológicos com cadastro de vítimas, geração de laudos com IA e exportação em PDF.  
-Tecnologias: Node.js, MongoDB, Express, HTML, CSS, JS  
-[🔗 Repositório](#) • [📷 Imagens do sistema](#)
+<div align="center">
+  <a href="https://github.com/raissabispo">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raissabispo&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissabispo&layout=compact&hide_border=true&title_color=87CEFA&text_color=FFFFFF&bg_color=0d1117"/>
+  </a>
+</div>
 
-🧠 **Laudo IA Generator**  
-Projeto com integração OpenAI para auxiliar peritos na criação automatizada de laudos técnicos.  
-Status: Em desenvolvimento  
-[🔗 Repositório](#)
-
----
-
-### 📈 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=raissabispo&bg_color=0d1117&color=87CEFA&line=4682B4&point=FFFFFF&area=true&hide_border=true"/>
+</div>
 
 ---
 
-### 🌐 Contato e Redes
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+## 🌟 Projetos Destacados
+- [Portfólio Pessoal](https://raissavitoria.netlify.app/) - Meu portfólio profissional
+- [Projeto em React]() - (Adicione seu link)
+- [Projeto em Python]() - (Adicione seu link)
 
 ---
 
-**"Transformando desafios em soluções através do código."**
+## 📱 Contato
+<div align="center">
+  <a href="https://instagram.com/raissa_vit012" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:raissavit59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-⭐️ _Se gostou de algum projeto, não esqueça de deixar uma estrela no repositório!_
+---
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+</div>
