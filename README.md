@@ -128,12 +128,4 @@ I'm 20 years old, from Recife-PE and currently studying Systems Analysis and Dev
   />
 </div>
 
-<br clear="both"/>
 
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
-</div>
-
-> "Transforming challenges into solutions through technology."
-> 
-> 📧 Contact me: josefernando.vagas@gmail.com
