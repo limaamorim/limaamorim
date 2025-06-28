@@ -124,29 +124,6 @@ Tenho 20 anos, sou de Recife-PE e atualmente curso Análise e Desenvolvimento de
 
 ---
 
-### 📚 Formação Acadêmica
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  SENAC PE | Fev 2024 - Jun 2026
-
-- **Técnico em Redes de Computadores**  
-  ETE Pastor Isaac Martins Rodrigues | Fev 2020 - Dez 2022
-
----
-
-### 💼 Experiência Profissional
-
-**Residente em TI - Deloitte**  
-Atuando com sistemas Totvs e SAP através do programa de residência do SENAC
-
-**Jovem Aprendiz - Geraldo Araújo Tecidos**  
-Atuação na área administrativa com foco em importação/exportação, gestão de documentos e controle de estoque
-
-**Jovem Aprendiz - A&B Alimentos e Bebidas**  
-Atendimento ao cliente, cadastros no sistema Totvs e apoio administrativo
-
----
-
 ### 📊 Estatísticas GitHub
 
 <p>
