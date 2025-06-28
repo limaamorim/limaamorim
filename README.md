@@ -1,43 +1,43 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+JOSÉ+FERNANDO;DESENVOLVEDOR+E+ESTUDANTE+DE+ADS!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+JOSÉ+FERNANDO;DEVELOPER+AND+ADS+STUDENT!;:%29)](https://git.io/typing-svg)
 
 </div>
 
 # 👨‍💻 José Fernando de Lima Amorim
 
-**`Desenvolvedor FullStack | Estudante de ADS | Residente na Deloitte`**
+**`FullStack Developer | ADS Student | Deloitte Resident`**
 
-Tenho 20 anos, sou de Recife-PE e atualmente curso Análise e Desenvolvimento de Sistemas no SENAC PE. Com formação técnica em Redes de Computadores, estou me especializando em desenvolvimento web com foco em Node.js, MongoDB e sistemas empresariais. Atualmente faço residência na Deloitte pelo SENAC, trabalhando com sistemas Totvs e SAP.
+I'm 20 years old, from Recife-PE and currently studying Systems Analysis and Development at SENAC PE. With a technical background in Computer Networks, I'm specializing in web development with focus on Node.js, MongoDB and enterprise systems. Currently I'm a resident at Deloitte through SENAC, working with Totvs and SAP systems.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/josé-fernando">
         <img 
             alt="LinkedIn" 
-            title="Meu LinkedIn" 
+            title="My LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="mailto:josefernando.vagas@gmail.com">
         <img 
             alt="Gmail" 
-            title="Meu Email" 
+            title="My Email" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a> 
     <a href="https://github.com/limaamorim">
         <img 
             alt="GitHub" 
-            title="Meu GitHub" 
-            src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"
+            title="My GitHub" 
+            src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Habilidades
+### 🛠️ Technologies and Skills
 
 <img 
     align="left" 
@@ -109,24 +109,24 @@ Tenho 20 anos, sou de Recife-PE e atualmente curso Análise e Desenvolvimento de
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 GitHub Statistics
 
-<p>
+<div align="center">
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=limaamorim&show_icons=true&theme=tokyonight&locale=pt-br" 
+    height="180" 
+    style="padding-right:20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=limaamorim&show_icons=true&theme=tokyonight&locale=en" 
   />
   
   <img 
-    align="left" 
+    align="center" 
     alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaamorim&theme=tokyonight&layout=compact&langs_count=8" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaamorim&theme=tokyonight&layout=compact&langs_count=8&locale=en" 
   />
-</p>
+</div>
 
 <br clear="both"/>
 
@@ -134,6 +134,6 @@ Tenho 20 anos, sou de Recife-PE e atualmente curso Análise e Desenvolvimento de
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
 </div>
 
-> "Transformando desafios em soluções através da tecnologia."
+> "Transforming challenges into solutions through technology."
 > 
-> 📧 Entre em contato: josefernando.vagas@gmail.com
+> 📧 Contact me: josefernando.vagas@gmail.com
