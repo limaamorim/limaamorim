@@ -33,13 +33,6 @@ Tenho 20 anos, sou de Recife-PE e atualmente curso Análise e Desenvolvimento de
             src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://github.com/limaamorim?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Meus seguidores no GitHub" 
-            src="https://img.shields.io/github/followers/limaamorim?style=for-the-badge&color=236ad3&labelColor=1155ba"
-        />
-    </a>
 </p>
 
 ---
