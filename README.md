@@ -12,7 +12,7 @@
 I'm 20 years old, from Recife-PE and currently studying Systems Analysis and Development at SENAC PE. With a technical background in Computer Networks, I'm specializing in web development with focus on Node.js, MongoDB and enterprise systems. Currently I'm a resident at Deloitte through SENAC, working with Totvs and SAP systems.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/josé-fernando">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-lima-amorim/">
         <img 
             alt="LinkedIn" 
             title="My LinkedIn" 
