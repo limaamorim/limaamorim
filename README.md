@@ -26,7 +26,7 @@ I'm 20 years old, from Recife-PE and currently studying Systems Analysis and Dev
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/limaamorim">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-lima-amorim/">
         <img 
             alt="Portfólio" 
             title="My portfólio" 
