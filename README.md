@@ -28,9 +28,9 @@ I'm 20 years old, from Recife-PE and currently studying Systems Analysis and Dev
     </a> 
     <a href="https://github.com/limaamorim">
         <img 
-            alt="GitHub" 
-            title="My GitHub" 
-            src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"
+            alt="Portfólio" 
+            title="My portfólio" 
+            src="https://www.linkedin.com/in/jos%C3%A9-fernando-lima-amorim/"
         />
     </a>
 </p>
