@@ -1,71 +1,67 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+JOSÉ+FERNANDO;DESENVOLVEDOR+E+ESTUDANTE+DE+ADS!;:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=700&lines=Olá!+Eu+sou+José+Fernando+👋;Desenvolvedor+Full+Stack;Último+período+em+ADS!)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/limaamorim/limaamorim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-# 👨‍💻 José Fernando de Lima Amorim
+## 🚀 Sobre Mim
 
-**`Desenvolvedor Full Stack | Estudante de ADS | Residente na Deloitte`**
+Sou **Desenvolvedor Full Stack em formação**, atualmente no **5º e último período** do curso  
+**Análise e Desenvolvimento de Sistemas (ADS)** pelo **SENAC-PE**, com formação técnica em  
+**Redes de Computadores**.
 
-Tenho 21 anos, sou de Recife-PE e atualmente estou no último período do curso  
-**Análise e Desenvolvimento de Sistemas (ADS)** no **SENAC PE**.
+Tenho foco em **desenvolvimento de sistemas web e corporativos**, atuando tanto no **backend**
+quanto no **frontend**, sempre aplicando **boas práticas, clean code e arquitetura organizada**.
 
-Com formação técnica em **Redes de Computadores**, estou me especializando em  
-**desenvolvimento web e sistemas corporativos**, com foco em:
-
-**Node.js, MongoDB, Java, Spring Boot, Python e PostgreSQL**.
-
----
-
-## 📫 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-lima-amorim/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:josefernando.vagas@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://devjosef-portfolio.netlify.app/" target="_blank">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+Trabalho principalmente com **Java e Spring Boot**, **Node.js**, **MongoDB** e **PostgreSQL**, além de experiência com **JavaScript, Python** e construção de **APIs RESTful** escaláveis.  
+Busco constantemente evoluir tecnicamente e entregar soluções eficientes e bem estruturadas.
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+### 💡 O que me move:
+- 🎯 Resolver problemas reais com soluções bem arquitetadas
+- 📚 Evoluir constantemente como desenvolvedor
+- 🏗️ Construir APIs e sistemas escaláveis
+- 🔄 Aprender e aplicar boas práticas do mercado
+- 🤝 Colaborar em projetos e ambientes profissionais
 
-<p align="center">
-  <img alt="HTML" title="HTML" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" title="Node.js" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="MongoDB" title="MongoDB" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+---
 
-  <img alt="Java" title="Java" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" title="Spring Boot" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Python" title="Python" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="PostgreSQL" title="PostgreSQL" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+## 🛠️ Stack Tecnológica
 
-  <img alt="Git" title="Git" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Figma" title="Figma" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="VS Code" title="VS Code" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+<div align="center">
+
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🗄️ Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+</div>
 
 ---
 
@@ -80,6 +76,20 @@ Com formação técnica em **Redes de Computadores**, estou me especializando em
 
 ---
 
+## 🌐 Vamos Conectar?
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-lima-amorim/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josefernando.vagas@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devjosef-portfolio.netlify.app/)
+
+</div>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=limaamorim&color=4682B4&style=flat-square&label=Visitantes" alt="Profile views" />
+
+**✨ Feito com dedicação, aprendizado contínuo e muito código!**
+
 </div>
