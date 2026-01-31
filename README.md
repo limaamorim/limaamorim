@@ -4,9 +4,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/limaamorim/limaamorim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
@@ -62,18 +59,6 @@ Busco constantemente evoluir tecnicamente e entregar soluções eficientes e bem
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=limaamorim&show_icons=true&theme=tokyonight" />
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaamorim&theme=tokyonight&layout=compact&langs_count=8" />
-</div>
-
 ---
 
 ## 🌐 Vamos Conectar?
