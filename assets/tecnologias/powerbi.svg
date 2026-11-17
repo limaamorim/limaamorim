@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="30" viewBox="0 0 109 30">
+  <title>Power BI</title>
+  <!-- Icon source: https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/powerbi.svg -->
+  <rect x=".5" y=".5" width="108" height="29" rx="7" fill="#f0f5fb" stroke="#c9d7e8"/>
+  <g transform="translate(8 7) scale(.6666667)" fill="#936100">
+    <path d="M10 12a1 1 0 0 1 1 1v11H4a1 1 0 0 1-1-1V13a1 1 0 0 1 1-1h6Zm-2-.5V7a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v17h-4.5V13a1.5 1.5 0 0 0-1.5-1.5H8Zm5-6V1a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v22a1 1 0 0 1-1 1h-3.5V7A1.5 1.5 0 0 0 15 5.5h-2Z" />
+  </g>
+  <text x="30" y="19.5" fill="#18263b" font-family="DejaVu Sans, system-ui, sans-serif" font-size="13" font-weight="700">Power BI</text>
+</svg>

@@ -19,18 +19,52 @@ Minha trajetória também inclui uma residência tecnológica em SAP MM pela Del
 
 ## Tecnologias
 
-| Área | Tecnologias |
-| --- | --- |
-| Microsoft Power Platform | Power Apps Code Apps, Dataverse, Power Automate e Power BI |
-| Desenvolvimento web | React, TypeScript, JavaScript e Tailwind CSS |
-| APIs e dados | Node.js, PostgreSQL, Python e Django |
-| Integração e versionamento | SharePoint, Git e GitHub |
+**Microsoft Power Platform**
+
+<p>
+  <img src="./assets/tecnologias/powerapps.svg" alt="Power Apps Code Apps" height="30">
+  <img src="./assets/tecnologias/dataverse.svg" alt="Dataverse" height="30">
+  <img src="./assets/tecnologias/powerautomate.svg" alt="Power Automate" height="30">
+  <img src="./assets/tecnologias/powerbi.svg" alt="Power BI" height="30">
+</p>
+
+**Desenvolvimento web**
+
+<p>
+  <img src="./assets/tecnologias/react.svg" alt="React" height="30">
+  <img src="./assets/tecnologias/typescript.svg" alt="TypeScript" height="30">
+  <img src="./assets/tecnologias/javascript.svg" alt="JavaScript" height="30">
+  <img src="./assets/tecnologias/tailwindcss.svg" alt="Tailwind CSS" height="30">
+</p>
+
+**APIs e dados**
+
+<p>
+  <img src="./assets/tecnologias/nodedotjs.svg" alt="Node.js" height="30">
+  <img src="./assets/tecnologias/postgresql.svg" alt="PostgreSQL" height="30">
+  <img src="./assets/tecnologias/python.svg" alt="Python" height="30">
+  <img src="./assets/tecnologias/django.svg" alt="Django" height="30">
+</p>
+
+**Integração e versionamento**
+
+<p>
+  <img src="./assets/tecnologias/microsoftsharepoint.svg" alt="SharePoint" height="30">
+  <img src="./assets/tecnologias/git.svg" alt="Git" height="30">
+  <img src="./assets/tecnologias/github.svg" alt="GitHub" height="30">
+</p>
 
 ## Projetos em destaque
 
 - **[Portfólio pessoal](https://github.com/limaamorim/Meu-Portfolio)** · Site em React e TypeScript com minha trajetória e meus projetos.
 - **Amigo Edu** · Plataforma de indicações educacionais com acompanhamento de recompensas e ranking. [Frontend em React](https://github.com/limaamorim/AmigoEdu-frontend) · [API em Node.js](https://github.com/limaamorim/Proleduca_Backend)
 - **[Sistema de apoio ao diagnóstico termográfico](https://github.com/limaamorim/ProjetoIntegradorBackend)** · Projeto integrador em Python e Django com simulação de exames e geração de laudos em PDF.
+
+### Linguagens dos projetos em destaque
+
+![JavaScript 36,88%, TypeScript 35,99%, Python 26,17% e outras linguagens 0,96%](./assets/linguagens.svg)
+
+<sub>Proporção dos bytes de código que o GitHub atribui a cada linguagem nos quatro repositórios acima. Retrato de novembro de 2026.</sub>
 
 ## Certificações Microsoft
 

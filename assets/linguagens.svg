@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="161" viewBox="0 0 520 161" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens dos projetos em destaque</title>
+  <desc id="desc">JavaScript 36,88%, TypeScript 35,99%, Python 26,17%, Outras 0,96%.</desc>
+  <rect x=".5" y=".5" width="519" height="160" rx="12" fill="#101f33" stroke="#344967"/>
+  <defs>
+    <clipPath id="bar"><rect x="26" y="37" width="468" height="20" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#bar)">
+    <rect x="26.000" y="37" width="172.617" height="20" fill="#f3c966"/>
+    <rect x="198.617" y="37" width="168.423" height="20" fill="#6cafff"/>
+    <rect x="367.039" y="37" width="122.455" height="20" fill="#64d8a7"/>
+    <rect x="489.494" y="37" width="4.506" height="20" fill="#a5b4c9"/>
+  </g>
+  <g font-family="DejaVu Sans, system-ui, sans-serif" font-size="16">
+    <circle cx="32" cy="89" r="6" fill="#f3c966"/>
+    <text x="48" y="94" fill="#e9f1ff">JavaScript</text>
+    <text x="237" y="94" text-anchor="end" fill="#d4e2f8" font-weight="700">36,88%</text>
+    <circle cx="276" cy="89" r="6" fill="#6cafff"/>
+    <text x="292" y="94" fill="#e9f1ff">TypeScript</text>
+    <text x="481" y="94" text-anchor="end" fill="#d4e2f8" font-weight="700">35,99%</text>
+    <circle cx="32" cy="125" r="6" fill="#64d8a7"/>
+    <text x="48" y="130" fill="#e9f1ff">Python</text>
+    <text x="237" y="130" text-anchor="end" fill="#d4e2f8" font-weight="700">26,17%</text>
+    <circle cx="276" cy="125" r="6" fill="#a5b4c9"/>
+    <text x="292" y="130" fill="#e9f1ff">Outras</text>
+    <text x="481" y="130" text-anchor="end" fill="#d4e2f8" font-weight="700">0,96%</text>
+  </g>
+</svg>
