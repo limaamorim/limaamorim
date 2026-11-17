@@ -13,60 +13,82 @@
 
 ## Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas pelo Senac-PE. Na KPMG, desenvolvo aplicações corporativas com Power Apps Code Apps, React e TypeScript. Meu trabalho inclui integrar dados do Dataverse e do SharePoint, automatizar notificações com Power Automate e otimizar telas de consulta com filtros e paginação na fonte de dados.
+Sou formado em Análise e Desenvolvimento de Sistemas pelo Senac-PE e atualmente atuo como Advisory Associate na KPMG, trabalhando com desenvolvimento de soluções e Microsoft Power Platform.
 
-Minha trajetória também inclui uma residência tecnológica em SAP MM pela Deloitte e pelo Porto Digital, além da experiência com TOTVS como jovem aprendiz na A&B Alimentos e Bebidas.
+Desenvolvo aplicações corporativas utilizando Power Apps Code Apps, React e TypeScript, com integração de dados através do Dataverse e SharePoint, além de automações com Power Automate e análise de dados com Power BI.
+
+Também tenho experiência e conhecimentos em desenvolvimento web, APIs, bancos de dados e versionamento. Minha trajetória inclui uma residência tecnológica em SAP MM pela Deloitte e Porto Digital, além de experiência com TOTVS na A&B Alimentos e Bebidas.
+
+Atualmente, venho aprofundando meus conhecimentos em desenvolvimento de aplicações, arquitetura de soluções, integrações e boas práticas de desenvolvimento.
 
 ## Tecnologias
 
-**Microsoft Power Platform**
+### Microsoft Power Platform
 
 <p>
-  <img src="./assets/tecnologias/powerapps.svg" alt="Power Apps Code Apps" height="30">
-  <img src="./assets/tecnologias/dataverse.svg" alt="Dataverse" height="30">
-  <img src="./assets/tecnologias/powerautomate.svg" alt="Power Automate" height="30">
-  <img src="./assets/tecnologias/powerbi.svg" alt="Power BI" height="30">
+  <img src="./assets/tecnologias/powerapps.svg" alt="Power Apps" height="32">
+  <img src="./assets/tecnologias/dataverse.svg" alt="Dataverse" height="32">
+  <img src="./assets/tecnologias/powerautomate.svg" alt="Power Automate" height="32">
+  <img src="./assets/tecnologias/powerbi.svg" alt="Power BI" height="32">
+  <img src="./assets/tecnologias/microsoftsharepoint.svg" alt="SharePoint" height="32">
 </p>
 
-**Desenvolvimento web**
+### Desenvolvimento
 
 <p>
-  <img src="./assets/tecnologias/react.svg" alt="React" height="30">
-  <img src="./assets/tecnologias/typescript.svg" alt="TypeScript" height="30">
-  <img src="./assets/tecnologias/javascript.svg" alt="JavaScript" height="30">
-  <img src="./assets/tecnologias/tailwindcss.svg" alt="Tailwind CSS" height="30">
+  <img src="./assets/tecnologias/react.svg" alt="React" height="32">
+  <img src="./assets/tecnologias/typescript.svg" alt="TypeScript" height="32">
+  <img src="./assets/tecnologias/javascript.svg" alt="JavaScript" height="32">
+  <img src="./assets/tecnologias/nodedotjs.svg" alt="Node.js" height="32">
+  <img src="./assets/tecnologias/python.svg" alt="Python" height="32">
+  <img src="./assets/tecnologias/django.svg" alt="Django" height="32">
+  <img src="./assets/tecnologias/tailwindcss.svg" alt="Tailwind CSS" height="32">
 </p>
 
-**APIs e dados**
+### Dados e ferramentas
 
 <p>
-  <img src="./assets/tecnologias/nodedotjs.svg" alt="Node.js" height="30">
-  <img src="./assets/tecnologias/postgresql.svg" alt="PostgreSQL" height="30">
-  <img src="./assets/tecnologias/python.svg" alt="Python" height="30">
-  <img src="./assets/tecnologias/django.svg" alt="Django" height="30">
-</p>
-
-**Integração e versionamento**
-
-<p>
-  <img src="./assets/tecnologias/microsoftsharepoint.svg" alt="SharePoint" height="30">
-  <img src="./assets/tecnologias/git.svg" alt="Git" height="30">
-  <img src="./assets/tecnologias/github.svg" alt="GitHub" height="30">
+  <img src="./assets/tecnologias/postgresql.svg" alt="PostgreSQL" height="32">
+  <img src="./assets/tecnologias/git.svg" alt="Git" height="32">
+  <img src="./assets/tecnologias/github.svg" alt="GitHub" height="32">
 </p>
 
 ## Projetos em destaque
 
-- **[Portfólio pessoal](https://github.com/limaamorim/Meu-Portfolio)** · Site em React e TypeScript com minha trajetória e meus projetos.
-- **Amigo Edu** · Plataforma de indicações educacionais com acompanhamento de recompensas e ranking. [Frontend em React](https://github.com/limaamorim/AmigoEdu-frontend) · [API em Node.js](https://github.com/limaamorim/Proleduca_Backend)
-- **[Sistema de apoio ao diagnóstico termográfico](https://github.com/limaamorim/ProjetoIntegradorBackend)** · Projeto integrador em Python e Django com simulação de exames e geração de laudos em PDF.
+### Meu Portfólio
 
-### Linguagens dos projetos em destaque
+Site desenvolvido com React e TypeScript para apresentar minha trajetória profissional, tecnologias e projetos.
 
-![JavaScript 36,88%, TypeScript 35,99%, Python 26,17% e outras linguagens 0,96%](./assets/linguagens.svg)
+[Ver repositório](https://github.com/limaamorim/Meu-Portfolio)
 
-<sub>Proporção dos bytes de código que o GitHub atribui a cada linguagem nos quatro repositórios acima. Retrato de novembro de 2026.</sub>
+### Amigo Edu
+
+Plataforma de indicações educacionais com acompanhamento de recompensas e ranking.
+
+[Frontend em React](https://github.com/limaamorim/AmigoEdu-frontend) · [API em Node.js](https://github.com/limaamorim/Proleduca_Backend)
+
+### Sistema de apoio ao diagnóstico termográfico
+
+Projeto integrador desenvolvido com Python e Django, incluindo simulação de exames e geração de laudos em PDF.
+
+[Ver repositório](https://github.com/limaamorim/ProjetoIntegradorBackend)
+
+## Linguagens dos projetos em destaque
+
+![Distribuição das linguagens utilizadas nos projetos](./assets/linguagens.svg)
+
+<sub>
+JavaScript 36,88% · TypeScript 35,99% · Python 26,17% · Outras 0,96%<br>
+Distribuição calculada a partir dos projetos em destaque · Novembro de 2026.
+</sub>
 
 ## Certificações Microsoft
 
-- **PL-900** · Power Platform Fundamentals
-- **AZ-900** · Azure Fundamentals
+- **PL-900** · Microsoft Power Platform Fundamentals
+- **AZ-900** · Microsoft Azure Fundamentals
+
+---
+
+<p align="center">
+  Sempre aprendendo, desenvolvendo e buscando transformar necessidades em soluções através da tecnologia.
+</p>
